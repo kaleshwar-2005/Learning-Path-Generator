@@ -44,7 +44,7 @@ To start the application, run:
 streamlit run app.py
 ```
 
-The application will be available at `http://localhost:8501` by default.
+The application will be available at 'https://learning-path-generator.onrender.com/'
 
 ## Usage
 
